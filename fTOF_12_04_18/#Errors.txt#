@@ -1,0 +1,14 @@
+когда пытаюсь удалить трапезоиды
+
+ERROR: G4VSceneHandler::RequestPrimitives
+  Polyhedron not available for Full_Bar
+  Touchable path:  World 0 av_1_impr_1_BarLogical_pv_0 1
+  This means it cannot be visualized on most systems (try RayTracer).
+  1) The solid may not have implemented the CreatePolyhedron method.
+  2) For Boolean solids, the BooleanProcessor, which attempts to create
+     the resultant polyhedron, may have failed.
+
+
+ERROR: G4VSceneHandler::RequestPrimitives
+  Polyhedron not available for Full_Bar
+  Touchable path:  World 0 av_1_impr_1_BarLogical_pv_0 1
